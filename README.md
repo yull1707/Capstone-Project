@@ -5,7 +5,7 @@ Proyek ini bertujuan untuk menganalisis dataset publik menggunakan pendekatan da
 Dengan analisis ini, diharapkan bisa ditemukan insight yang relevan, unik, dan dapat dijadikan dasar rekomendasi.
 
 ## Raw Dataset Link
-- [Dataset Link (Google Drive)](https://drive.google.com/...)  
+- [Dataset Link (Google Drive)][(https://drive.google.com/drive/my-drive?hl=id)
 - Dataset berisi informasi [jelaskan isi dataset: misalnya transaksi, penjualan, review pelanggan, dll].  
 - Jumlah data: XXX baris dan XX kolom.  
 
